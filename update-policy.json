@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "0.0.6",
-    "minimumSupportedVersion":  "0.0.5",
-    "mode":  "normal",
-    "title":  "AnyNet Engineer 0.0.6",
-    "message":  "A new AnyNet update is ready. You can continue working and restart when convenient.",
-    "publishedAt":  "2026-07-17T02:34:38.5807024Z"
+    "latestVersion":  "0.0.7",
+    "minimumSupportedVersion":  "0.0.7",
+    "mode":  "security",
+    "title":  "Security update required",
+    "message":  "This security update is required before you can continue using AnyNet Engineer.",
+    "publishedAt":  "2026-07-17T02:49:36.6214640Z"
 }
