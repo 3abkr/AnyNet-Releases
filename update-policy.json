@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "0.0.7",
+    "latestVersion":  "0.0.8",
     "minimumSupportedVersion":  "0.0.7",
-    "mode":  "security",
-    "title":  "Security update required",
-    "message":  "This security update is required before you can continue using AnyNet Engineer.",
-    "publishedAt":  "2026-07-17T02:49:36.6214640Z"
+    "mode":  "normal",
+    "title":  "AnyNet Engineer 0.0.8",
+    "message":  "Native sign-in, authorized devices, and realtime remote sign-out are now available. Restart when convenient.",
+    "publishedAt":  "2026-07-18T17:08:00.1412484Z"
 }
