@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "0.0.8",
-    "minimumSupportedVersion":  "0.0.7",
+    "latestVersion":  "0.0.9",
+    "minimumSupportedVersion":  "0.0.8",
     "mode":  "normal",
-    "title":  "AnyNet Engineer 0.0.8",
-    "message":  "Native sign-in, authorized devices, and realtime remote sign-out are now available. Restart when convenient.",
-    "publishedAt":  "2026-07-18T17:08:00.1412484Z"
+    "title":  "AnyNet Engineer 0.0.9",
+    "message":  "Secure support codes and authenticated relay claims are available. Restart when convenient.",
+    "publishedAt":  "2026-07-18T22:02:02.7256093Z"
 }
