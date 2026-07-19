@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "0.0.9",
-    "minimumSupportedVersion":  "0.0.8",
-    "mode":  "normal",
-    "title":  "AnyNet Engineer 0.0.9",
-    "message":  "Secure support codes and authenticated relay claims are available. Restart when convenient.",
-    "publishedAt":  "2026-07-18T22:02:02.7256093Z"
+    "latestVersion":  "0.0.10",
+    "minimumSupportedVersion":  "0.0.10",
+    "mode":  "mandatory",
+    "title":  "AnyNet Engineer 0.0.10",
+    "message":  "The public AnyNet Relay is now required. Update to continue secure remote support without running a local Relay.",
+    "publishedAt":  "2026-07-19T08:38:52.6788105Z"
 }
